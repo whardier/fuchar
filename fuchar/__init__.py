@@ -51,7 +51,7 @@ def render_string(s, newline='\n', prefix='', postfix='', ignore_missing=False):
 
 __all__ = ['font', 'render_string']
 
-__version__ = '0.01'
+__version__ = '0.0.1'
 __author__ = 'Shane R. Spencer'
 __author_email__ = 'spencersr@gmail.com'
 __url__ = 'https://github.com/whardier/fuchar'
