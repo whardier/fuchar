@@ -12,4 +12,4 @@ Fuchar renders the future font found in the toilet project. The font is built in
     <!-- ┣━┫┃    ┃ ┣━┫┣╸ ┣┳┛┣╸  -->
     <!-- ╹ ╹╹    ╹ ╹ ╹┗━╸╹┗╸┗━╸ -->
     
-Future font was originally developed by Sam Hocevar <sam@hocevar.net> and is licensed via `http://sam.zoy.org/wtfpl/COPYING <http://sam.zoy.org/wtfpl/COPYING>`_.
+Future font was originally developed by Sam Hocevar <sam@hocevar.net> and is licensed via <http://sam.zoy.org/wtfpl/COPYING>.
